@@ -2,18 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
-
+WE are  require to Create a backend app with light web framework using javascript we express
 ## Description
-TODO - How have you solved the problem?
+In order to find all the information needed, i have to search online. Wikipedia, Google and Fan's website for the information i need for this project
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+You would need a web browser to access this code 
 
 ## Usage
-TODO - How does it work?
+It is used to design the backend of a website and also to get necessary information about a particular project such as image 
 ```
-./my_project argument1 argument2
+It is used to request for a particular information needed for a particular project 
 ```
 
 ### The Core Team
